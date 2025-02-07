@@ -1,4 +1,4 @@
-# crud_xss
+# crud_xss(version:crud-master)
 The CRUD backend management system has an XSS vulnerability.
 As shown in the image, enter the XSS code:
 <img width="1193" alt="image" src="https://github.com/user-attachments/assets/21f74bb4-7260-4f82-8a5d-f1e01b1b42e4" />
